@@ -1,3 +1,5 @@
+This was a coding challenge I did for Delta Defense. The task was to create a simple blog in React fetching posts from https://jsonplaceholder.typicode.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
